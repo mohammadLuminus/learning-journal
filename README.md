@@ -4,4 +4,8 @@
 3. ***hellooooooo***
 4. **mohammad _ABU_ alsamen**
 5. ~~this paragraph are cleared~~	
+where do you live :
+- [x] al-zarqa
+- [ ] Amman
+- [ ] Irbid
 
